@@ -39,7 +39,7 @@ Since the "push" method of the REST service is the only one that accepts input i
 URL's For Accessing the Application:
 -------------------------------------
 Launch the application URL: http://<your_IP>:<your_port>/UnicoWebServices 
-All the below documentation is present on that page.
+All the below documentation is also present on that page.
 
 REST Services:
 
